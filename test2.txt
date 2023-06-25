@@ -1,7 +1,9 @@
 mrow 1
 mrow 2
 mrow 3
-mrow 3_1
-mrow 3_2
 mrow 4
+arow 1
+arow 777777
+arow 3
+arow 4
 
